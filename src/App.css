@@ -1,0 +1,71 @@
+.div1{
+   height :100vh;
+   width:100%;
+   background-color: aquamarine;
+}
+
+.div2{
+  height: 100%;
+  width: 70%;
+  background-color: white;
+  margin-left:35%;
+
+}
+.btn{
+  height: 36px;
+  border-radius: 9px;
+  margin-top: 45px;
+  /* margin-left: 10px; */
+  width: 780px;
+  background-color: aquamarine;
+  cursor: pointer;
+}
+input{
+  height: 30px;
+  width: 780px;
+  border-radius: 10px;
+  padding:5;
+  margin: 10px;
+  border: solid white;
+}
+
+.span1{
+  display: flex;
+  gap: 163px;
+    margin-left: 195px;
+ 
+}
+.img1{
+  width: 20px;
+  height: 13px;
+
+}
+.imgg{
+ 
+  position: absolute;
+  
+}
+
+.im{
+  height: 419px;
+  width: 458px;
+  margin-left: 156px;
+  margin-top: 131px;
+}
+
+
+.img2{
+  
+  width: 21px;
+  height: 15px;
+}
+
+
+
+.side{
+  margin-left: 100px;
+}
+.or{
+  margin-left: 395px;
+
+}
